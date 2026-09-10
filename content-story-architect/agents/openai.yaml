@@ -1,0 +1,14 @@
+interface:
+  display_name: Content Story Architect
+  short_description: Develop, hook, script, audit, and refine content.
+  default_prompt: Help me turn this content idea into a strong concept, hook, script,
+    or audit using the Content Story Architect.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
