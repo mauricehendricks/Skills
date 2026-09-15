@@ -7,7 +7,6 @@ A growing collection of reusable agent skills for a wide range of tasks and work
 | Skill | Purpose |
 | --- | --- |
 | [Content Story Architect](content-story-architect/SKILL.md) | Develop content ideas, expand seeds into distinct Idea Clusters, and create hooks, scripts, and revisions using storytelling frameworks and progression mechanics. |
-| [Taste Board](taste-board/README.md) | Maintain a local library of design references, render moodboards, and turn collected references into reusable design rules. |
 
 ## Using a skill
 
@@ -29,6 +28,6 @@ The installed skill remains separate from the user's private `content-storytelli
 
 Requires an Agent Skills-compatible client and Python 3.10 or newer for the optional workspace and framework utilities.
 
-## Licenses
+## License
 
-See individual skill directories for applicable license information. Taste Board includes an [MIT license](taste-board/LICENSE).
+This repository is licensed under the [MIT License](LICENSE).
