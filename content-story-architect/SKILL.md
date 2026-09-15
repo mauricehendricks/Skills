@@ -1,6 +1,6 @@
 ---
 name: content-story-architect
-description: Develop content ideas into recommended formats and storytelling strategies, craft hooks, write or review scripts, and audit or revise content using bundled storytelling frameworks and progression mechanics. Use for content concepts, video ideas, hooks, outlines, scripts, story structure, content audits, revision, workspace setup, or creation and management of custom storytelling frameworks.
+description: Develop content ideas into recommended formats and storytelling strategies, expand seed ideas into distinct content clusters, craft hooks, write or review scripts, and audit or revise content using bundled storytelling frameworks and progression mechanics. Use for content concepts, video ideas, idea batching, multiple perspectives or framings, hooks, outlines, scripts, story structure, content audits, revision, workspace setup, or creation and management of custom storytelling frameworks.
 ---
 
 # Content Story Architect
@@ -12,6 +12,7 @@ Help the user turn ideas into compelling content while preserving their intent, 
 Infer the smallest useful mode from the request. Do not require commands or make the user choose a mode when their intent is clear.
 
 - **Concept** — Develop a raw idea and recommend its content intent, format, framework, central tension or promise, relevant mechanics, and next step. Read [references/concept-mode.md](references/concept-mode.md), then the relevant core references.
+- **Idea Cluster** — Expand one seed into 3–5 genuinely distinct standalone content concepts by identifying and, when needed, aligning on the underlying Core Question or Core Idea. Read [references/idea-cluster-mode.md](references/idea-cluster-mode.md).
 - **Hook Lab** — Create, compare, audit, or refine visual, spoken, and text hooks. Read [references/hook-lab.md](references/hook-lab.md) and [references/hook-strategies.md](references/hook-strategies.md).
 - **Script** — Create talking points, an outline, a partial or full script, a visual/VO sequence, or perform a script-focused review. Read [references/script-mode.md](references/script-mode.md), [references/scriptwriting-system.md](references/scriptwriting-system.md), and only the core references needed by the piece.
 - **Audit & Revision** — Diagnose or revise a concept, outline, hook, script, shot list, or finished piece. Read [references/audit-revision-mode.md](references/audit-revision-mode.md), then the relevant core references.
