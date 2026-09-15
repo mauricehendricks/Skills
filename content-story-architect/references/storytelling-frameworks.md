@@ -8,6 +8,7 @@ These are bundled, predefined frameworks. Treat them as read-only. Select the fr
 - In Medias Res / Start in the Middle
 - Viral: Question → Journey → Answer
 - Educational / Value-Driven
+- Credibility-Led Breakdown
 - HSTSS: Personal Transformation
 
 ## Traditional / Linear Story Framework
@@ -54,6 +55,19 @@ These are bundled, predefined frameworks. Treat them as read-only. Select the fr
   5. **Payoff (Takeaway + Transformation)** — Fulfill the opening promise with a clear conclusion and what the audience can now understand, do, or decide.
 - **Best fit:** Tutorials, explainers, advice, breakdowns, lessons, and value-driven content where useful understanding or application is the primary payoff.
 - **Key rule:** Do not merely present information; build toward a clear change in the audience's understanding or ability and why it matters for them.
+
+## Credibility-Led Breakdown Framework
+
+- **Purpose:** Turn an outcome, problem, or question the audience already cares about into a useful breakdown that establishes trust in the creator and gives viewers a reason to return for more.
+- **Structure:**
+  1. **Hook (Desire + Curiosity)** — Lead with a desired outcome, recognizable problem, or compelling question. Make the audience want to understand what happened, why it worked, or how it could help them.
+  2. **Credibility (Experience + Trust)** — Briefly establish why your perspective is worth hearing through relevant credentials, firsthand experience, demonstrated work, or results.
+  3. **Solution Preview (Promise + Direction)** — Clarify the explanation, method, or insight you are about to reveal and how it connects to the opening question.
+  4. **Re-Hook (Entertainment + Contrast)** — Use a relevant clip, humorous interpretation, or alternate take to renew attention. When it presents a false lead, reveal why that explanation is incomplete and transition into the actual solution.
+  5. **Breakdown (Insight + Demonstration)** — Deliver the promised solution through specific points, examples, evidence, or demonstrations. Use Value Loops so each point builds understanding and substantiates your credibility.
+  6. **Personal Application (Relevance + Payoff)** — Show what the viewer can understand, do, or approach differently and why it matters to their own goals. Establish personal relevance early when helpful, then reinforce it through the payoff so the value of returning to your perspective is clear.
+- **Best fit:** Expert commentary, case studies, creative or technical breakdowns, process explanations, and advice where earning trust in the creator is central to turning viewer interest into an ongoing audience relationship.
+- **Key rule:** Credentials earn initial trust; the breakdown must justify it. Fulfill the opening promise and make its relevance to the viewer unmistakable.
 
 ## HSTSS Framework (Personal Transformation)
 
@@ -102,4 +116,3 @@ These are bundled, predefined frameworks. Treat them as read-only. Select the fr
 - Deliver the mic-drop realization or lesson.
 - Clarify what the audience should know or take away and demonstrate how it applies to them.
 - The story creates entry; the meaning creates impact.
-
