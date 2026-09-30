@@ -9,6 +9,7 @@ Capture attention, establish what the content is about, and create a compelling 
 - Hook Writing Checklist
 - Hook Line Sinker Framework
 - Desire Hook Framework
+- Hook Stacking Framework
 - Supporting Hook Tips
 
 ## Three Types of Hooks
@@ -131,6 +132,52 @@ Hook viewers by teasing a desire they already have through a relatable character
 - Where it strengthens the opening, replace conditional phrasing with a direct statement.
 - Instead of “If you want to improve your storytelling, try this,” use “This is how you improve your storytelling.”
 - Keep a question when the uncertainty is what makes the hook compelling, and never frame a hypothetical result as something already achieved.
+
+## Hook Stacking Framework (Problem → Solution)
+
+Build an opening by layering three connected beats: introduce a relevant problem, explain what is not working, and introduce the solution.
+
+**Angle → Current State → Solution**
+
+### Step 1: Angle — Introduce the Problem
+
+- Choose the specific perspective that makes the problem relevant to the audience.
+- Establish one clear subject and a recognizable pain point, obstacle, or unmet goal.
+- Make the viewer understand why this matters to them.
+
+### Step 2: Current State — Explain What Is Not Working
+
+- Identify the current approach, assumption, or situation keeping the problem unresolved.
+- Add a specific limitation or explanation rather than repeating the opening complaint.
+- Create contrast between where the audience is and the change they need.
+
+### Step 3: Solution — Introduce the Way Forward
+
+- Offer the method, insight, or alternative that addresses the problem.
+- In an opening, preview enough of the solution to provide value and make the next explanation worth watching.
+- In a very short video, deliver the solution directly when it can be explained clearly.
+
+### Example
+
+- **Angle:** “You want to make more videos without losing time to create.”
+- **Current State:** “But treating every post as a brand-new project means starting from zero each time.”
+- **Solution:** “Start with one creative session and find three distinct stories inside it.”
+
+### Best Fit
+
+Problem-led explainers, advice, process breakdowns, and persuasive content where recognizing the audience’s situation creates the initial interest.
+
+### Key Rule
+
+Each layer must advance the opening: identify the problem, explain what is failing, then introduce a useful way forward. Keep all three connected to one subject and one central question or promise.
+
+### Relationship to Other Methods
+
+- **Hook Line Sinker:** Creates curiosity through an expectation interruption and unexpected perspective. Hook Stacking can work through straightforward diagnosis and solution.
+- **Desire Hook:** Leads with a dream outcome and relatable character or condition. Hook Stacking leads with the problem and current obstacle.
+- **Supporting techniques:** Lead with Existing Interest, A vs. B Contrast, and Compress Speed to Value can strengthen the individual beats.
+
+Primarily structures the opening. It can also organize a very short problem–solution video; longer pieces need further development, demonstration, and payoff.
 
 ## Supporting Hook Tips
 
