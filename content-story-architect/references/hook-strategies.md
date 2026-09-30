@@ -108,8 +108,25 @@ Hook viewers by teasing a desire they already have through a relatable character
 
 **Dream Outcome → Creator/Character → Relatable Condition**
 
-- Establish the desired outcome and why it feels relevant within the **first two lines**.
-- The relatable condition can be the method, starting point, or constraint that connects the character's situation to the audience.
+### Step 1: Dream Outcome
+
+- Establish the result the audience wants to achieve or explore.
+- Make the desired outcome and why it feels relevant clear within the **first two lines**.
+
+### Step 2: Creator/Character
+
+- Identify who achieved the outcome or will attempt it: you, the viewer, or another person.
+- Choose a perspective the audience can see themselves in.
+
+### Step 3: Relatable Condition
+
+- Connect the character’s situation to the audience through a relevant method, starting point, or constraint.
+- Make clear why the outcome feels relevant or achievable for them.
+
+### Using the Structure
+
+- These are connected beats, not three required sentences. They can fit within one sentence.
+- Use the sequence as a guide; natural phrasing may introduce the character first, as in “I just accomplished…”
 
 ### Hook Templates by Perspective
 
